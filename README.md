@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋, Rama Venkata Siva Kumar Saranam
+#### Data Analyst
+![Data Analyst](https://media.licdn.com/dms/image/v2/D5616AQGeRq6i-4s4IA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738742426089?e=1744243200&v=beta&t=v2TErfCOkaoVmfzovxcWeAJTPMt5EtRY8VUKcUHUKHI)
 
-<!--
-**Srvskumar/Srvskumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst 📊 | B.Tech 🎓 in (ECE) | Proficient in Python🗯️, , R Basics, SQL📝, and Advanced Excel | Skilled in Data Visualization with Tableau and Power BI📈[DAX] 
+{Completed PwC Power BI Job Simulation}
 
-Here are some ideas to get you started:
+Skills: Microsoft Power Bi , Tableau, Python, MySQL, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
