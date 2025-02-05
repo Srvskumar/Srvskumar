@@ -2,10 +2,16 @@
 # Rama Venkata Siva Kumar Saranam
 
 ## Data Analyst
-Aspiring Data Analyst 📊 | B.Tech 🎓 in (ECE) | Proficient in Python🗯️, , R Basics, SQL📝, and Advanced Excel | Skilled in Data Visualization with Tableau and Power BI📈[DAX] 
-{Completed PwC Power BI Job Simulation}
+Aspiring Data Analyst 📊 | B.Tech 🎓 in Electronics & Communicationa Engineering 
 
-Skills: Microsoft Power Bi , Tableau, Python, MySQL, PostgreSQL
+### Completed PwC Power BI Job Simulation ___Forage
+
+## Skills:
+📊 Microsoft Power Bi
+📈 Tableau 
+🐍 Python
+🔳 MySQL
+🔳 PostgreSQL 💭💭💭💭
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Srvskumar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rama-venkata-siva-kumar-saranam-488556253//)
 
