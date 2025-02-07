@@ -1,4 +1,4 @@
-![Data Analyst](https://media.licdn.com/dms/image/v2/D5616AQGeRq6i-4s4IA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738742426089?e=1744243200&v=beta&t=v2TErfCOkaoVmfzovxcWeAJTPMt5EtRY8VUKcUHUKHI)
+![Data Analyst](https://media.licdn.com/dms/image/v2/D5616AQEmkzO1xa-RTw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738768100410?e=1744243200&v=beta&t=9zPREnEsSZY1fHayOUOw0s15PnQw03YClRuIopyq5I4)
 # Rama Venkata Siva Kumar Saranam
 
 ## Data Analyst
